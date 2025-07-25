@@ -1,7 +1,7 @@
 body {
   font-family: 'Arial', sans-serif;
   direction: ltr;
-  background-color: #f2f2f2;
+  background-color: lab(89.99% 5.12 1.83);
   margin: 0;
   padding: 0;
 }
